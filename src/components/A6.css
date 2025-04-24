@@ -1,0 +1,35 @@
+.A6-box{
+    background: url(../assert/A6-image.jpg);
+    /* border: 2px red solid; */
+    width: 100%;
+    height: 300px;
+}
+
+.A6-wrapper{
+    /* border: 2px red solid; */
+    width: 1200px;
+    height: 320px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+:where(.css-dev-only-do-not-override-1261szd).ant-statistic .ant-statistic-content {
+color: white;
+font-size: 50px;
+margin-right: 100px;
+font-weight: 600;
+}
+
+:where(.css-dev-only-do-not-override-1261szd).ant-statistic .ant-statistic-title{
+
+font-size: 25px;
+margin-right: 100px;
+color: white;
+font-weight: 400;
+white-space: nowrap;
+
+  text-overflow: ellipsis;
+  max-width: 300px;
+}

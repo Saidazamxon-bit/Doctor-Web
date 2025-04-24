@@ -1,0 +1,63 @@
+.A4-box{
+    width: 1421px;
+    height: 900px;
+    border: 2px #0f4b5d solid;
+    background-color: #0b4e63;
+    margin: auto;
+}
+
+.A4-box h1{
+    font-size: 45px;
+    color: white;
+    margin-top: 100px;
+}
+
+.A4-box h3{
+    font-size: 17px;
+    color: white;
+    font-weight: 200;
+}
+
+.tab-content{
+    width: 800px;
+    height: 560px;
+    /* border: 2px red solid; */
+    background-color: none;
+    margin-left: 420px;
+    margin-top: -400px;
+}
+
+
+.tabs {
+    background-color: #0f4b5d;
+    border-radius: 11px;
+    overflow: hidden;
+    width: 270px;
+    /* border: 2px red solid; */
+    margin-left: 130px;
+    margin-top: 200px;
+  }
+  
+  .tab {
+    padding: 15px;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+    cursor: pointer;
+    background-color: #e9f1f5;
+    transition: background-color 0.3s ease;
+  }
+  
+  .tab:hover {
+    background-color: #d3e3e9;
+  }
+  
+  .tab.active {
+    background-color: #0f4b5d;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .tab:last-child {
+    border-bottom: none;
+  }
+  

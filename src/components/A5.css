@@ -1,0 +1,23 @@
+.A5-box{
+    /* border: 2px red solid; */
+    width: 1000px;
+    margin: auto;
+    font-size: 23px;
+    font-weight: 400;
+    margin-top: 100px;
+}
+
+
+.A5-img{
+    margin: auto;
+    margin-left: 30px;
+}
+
+.slick-arrow.slick-prev{
+    color: black;
+}
+
+.slick-arrow.slick-next{
+    color: black;
+
+}

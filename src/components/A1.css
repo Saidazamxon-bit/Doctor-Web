@@ -1,0 +1,232 @@
+*{
+    font-family: serif;
+    
+}
+
+.Sign-button:hover{
+  cursor: pointer;
+}
+
+.Login-button:hover{
+  cursor: pointer;
+}
+
+.box{
+
+     border:none; 
+}
+
+.tag:hover{
+color: aqua;
+cursor: pointer;
+}
+
+.box2{
+    width: 1300px;
+    /* border: 1px red solid; */
+    height: 800px;
+    margin: auto;
+}
+
+
+.wave-box {
+    position: relative;
+    background: linear-gradient(to right, #098196, #0159a5);
+    padding: 40px;
+    color: white;
+    overflow: hidden;
+    margin-bottom: 0;
+    height: 700px;
+  }
+  
+  
+  
+  .wave {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 80px;
+    z-index: 0;
+  }
+  
+  .nav{
+     /* border: 2px red solid; */ 
+    width: 1100px;
+    height: 50px ;
+    margin: auto;
+    display: flex;
+    justify-content: end;
+  }
+
+  .nav1{
+     /*  border: 2px red solid; */ 
+    width: 200px;
+    height: 40px;
+    margin-top: 3px;
+    display: flex;
+    align-items: center;
+   
+  }
+
+  .nav1 img{
+    width: 17px;
+    height: 20px;
+    margin-right: 5px;
+  }
+
+  .nav1 h3{
+    font-weight: 300;
+    font-size: 17px;
+  }
+
+  .nav2{
+     /* border: 2px red solid; */
+    width: 200px;
+    height: 40px;
+    margin-top: 3px;
+    display: flex;
+    align-items: center;
+   
+  }
+
+  .nav2 img{
+    width: 14px;
+    height: 15px;
+    margin-right: 5px;
+  }
+
+  .nav2 h3{
+    font-weight: 300;
+    font-size: 17px;
+  }
+  
+  
+  
+  .nav3{
+     /* border: 2px red solid; */
+    width: 200px;
+    height: 40px;
+    margin-top: 3px;
+    display: flex;
+    align-items: center;
+   
+  }
+
+  .nav3 img{
+    width: 15px;
+    height: 13px;
+    margin-right: 5px;
+  }
+
+  .nav3 h3{
+    font-weight: 300;
+    font-size: 17px;
+  }
+
+
+
+
+  .nav-pasi{
+    /* border: 2px red solid; */
+    width: 1200px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+  }
+
+
+  .pas1{
+    width: 200px;
+    height: 80px;
+    /* border: 2px red solid; */
+    padding-top: 20px;
+  }
+
+  .pas2{
+    width: 800px;
+    height: 100px;
+    /* border: 2px red solid; */
+    display: flex;
+    justify-content: space-around;
+    font-size: 10px;
+    align-items: center;
+    
+  }
+
+  .pas2 h1{
+    font-weight: 200;
+  }
+
+  .pas3{
+    width: 300px;
+    height: 100px;
+    /* border: 2px red solid; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+
+ .pas3 select{
+    width: 70px;
+    height: 27px;
+    border-radius: 10px;
+    padding-left: 5px;
+    font-family: sans-serif;
+ }
+  
+ .pas3 button{
+    width: 80px;
+    height: 40px;
+    border: 2px white solid;
+    background:none;
+    color: white;
+    font-family: sans-serif;
+ }
+  
+
+ .opa-joyi{
+    width: 1150px;
+    height: 600px;
+    /* border: 2px red solid; */
+    margin: auto;
+    display: flex;
+ }
+
+ .opa1{
+    width: 625px;
+    height: 500px;
+    /* border: 2px red solid; */
+ }
+
+ .opa1 h1{
+    font-size: 60px;
+    text-align: start;
+    margin-top: 100px;
+ }
+
+ .opa1 h3{
+    font-size: 20px;
+    text-align: start;
+    margin-top: 100px;
+    font-weight: 200;
+    margin-top: -20px;
+ }
+
+ .opa1 button{
+    width: 160px;
+    height: 50px;
+    border: 2px white solid;
+    border-radius: 10px;
+    background: none;
+    color: aliceblue;
+    font-size: 16px;
+    margin-left: -420px;
+    margin-top: 15px;
+ }
+
+ .opa2 img{
+    width: 570px;
+
+ }
