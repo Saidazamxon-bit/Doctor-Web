@@ -1,7 +1,7 @@
 import React from 'react';
-import "./A6.css"
 import { Col, Row, Statistic } from 'antd';
 import CountUp from 'react-countup';
+import "./A6.css"
 const formatter = value => <CountUp end={value} separator="," />;
 const App = () => (
     <div className='A6-box'>
