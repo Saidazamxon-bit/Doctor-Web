@@ -1,6 +1,5 @@
-
-import "./A6.css"
 import React from 'react';
+import "./A6.css"
 import { Col, Row, Statistic } from 'antd';
 import CountUp from 'react-countup';
 const formatter = value => <CountUp end={value} separator="," />;
