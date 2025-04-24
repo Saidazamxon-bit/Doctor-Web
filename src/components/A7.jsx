@@ -2,7 +2,7 @@ import React from 'react'
 
 const A7 = () => {
   return (
-    <div>salom</div>
+    <div> salommm dunyo</div>
   )
 }
 
