@@ -1,0 +1,143 @@
+.A8-box{
+    width: 98%;
+    height: 500px;
+    background-color: #010b1a;
+    margin-top: -300px;
+    color: white;
+    border: 14px #010b1a solid;
+    display: flex;
+}
+
+
+.A8-box h2{
+    font-weight: 300;
+    font-size: 18px;
+    text-align: start;
+}
+
+.A8-box h2:hover{
+    color: aqua;
+    cursor: pointer;
+}
+
+.a8-1{
+    /* border: 2px red solid; */
+    width: 200px;
+    height: 330px;
+    margin-left: 200px;
+    margin-top: 100px;
+    margin-right: 100px;
+}
+
+.a8-2{
+    /* border: 2px red solid; */
+    display: flex;
+    justify-content: space-between;
+    width: 170px;
+}
+
+.a8-2 img{
+    width: 15px;
+    height: 15px;
+    margin-top: 18px;
+}
+
+.a8-3{
+    /* border: 2px red solid; */
+    display: flex;
+    justify-content: space-between;
+    width: 215px;
+}
+
+.a8-3 img{
+    width: 15px;
+    height: 15px;
+    margin-top: 18px;
+}
+
+.a8-wr{
+    color: white;
+    /* border: 2px red solid; */
+    width: 200px;
+    height: 280px;
+    margin-right: 40px;
+    margin-top: 100px;
+    text-align: start;
+}
+
+.linklar{
+    color: white;
+    text-decoration: none;
+}
+
+.a8-t{
+    font-size: 25px;
+    margin-top: 50px;
+    font-weight: 300;
+}
+
+.a8-wr1{
+    color: white;
+    /* border: 2px red solid; */
+    width: 200px;
+    height: 280px;
+    margin-right: 40px;
+    margin-top: 80px;
+    text-align: start;
+}
+
+
+
+.a8-t1{
+    font-size: 25px;
+    margin-top: 50px;
+}
+
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');
+
+.social-buttons {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  background-color: #050b16;
+  padding: 20px;
+}
+
+.social-btn {
+  width: 48px;
+  height: 48px;
+  border: 1px solid #5c5c5c;
+  border-radius: 50%;
+  color: #cfcfcf;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.social-btn:hover {
+  background-color: #2c2c2c;
+  transform: scale(1.1);
+}
+
+.Ijtimoiy-tr{
+    /* border: 2px red solid; */
+
+    margin-left: 700px;
+    margin-top: -250px;
+}
+
+.passs{
+    margin-top: 100px;
+    width: 900px;
+}
+
+.pas-t{
+    color: white;
+    margin-top: -3px;
+    font-size: 20px;
+    font-weight: 400;
+}
